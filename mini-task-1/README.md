@@ -20,7 +20,7 @@ Artists, musicians, and creators can use blockchain to timestamp and register th
 ## 2. Blockchain Anatomy
 ### Q: Draw a block showing — data, previous hash, timestamp, nonce and Merkle root.
 
-![](https://www.researchgate.net/publication/379528845/figure/fig2/AS:11431281233904629@1712156185849/Blockchain-structure-with-a-Merkle-tree-15-Timestamp-The-block-was-made-at-this.ppm#_uDarkitemprop=contentUrl&class=figure-details-image__main-image)
+![](https://raw.githubusercontent.com/NamVr/Blockchain-Internship/refs/heads/master/mini-task-1/merkle%20tree%20blockchain.png#_uDarkdata-hpc=true&class=Box-sc-g0xbh4-0+fzFXnm)
 
 ### Q: Explain with an example how the Merkle root helps verify data integrity.
 
